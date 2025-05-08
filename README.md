@@ -1,14 +1,13 @@
-<div align="center">
-  <img height="200" src="https://cdn.wallpapersafari.com/31/5/RuyK1a.gif"  />
-</div>
+
+<img src="https://cdn.wallpapersafari.com/31/5/RuyK1a.gif" style="width: 100%; height: auto;" />
 
 ###
 
-<p align="center">Names Byte</p>
 
 ###
 
 <h1 align="center">Hi <embed></h1>
+<p align="center">Names Byte</p>
 
 ###
 
@@ -66,11 +65,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Anonymous">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Anonymous&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qszkud44x432dftdnaduixj3fa&count=10)
 
 ###
 
